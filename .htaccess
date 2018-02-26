@@ -1,0 +1,5 @@
+RewriteEngine on
+# Reescribir la URL solicitada por el usuario
+#   Entrada:  clientes/NOMBRE/
+#   Salida: clientes.php?id=NOMBRE
+RewriteRule ^clientes/(\w+)/?$ clientes.php?id=$1

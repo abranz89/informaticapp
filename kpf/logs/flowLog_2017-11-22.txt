@@ -1,0 +1,13 @@
+[2017-11-22 10:26:17.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:31:05.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:36:38.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:41:38.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:41:38.000000 127.0.0.1  - new_order ] Error: No se pasaron todos los parámetros obligatorios
+[2017-11-22 10:41:38.000000 127.0.0.1  - new_order ] Error: El parámetro monto de la orden debe ser numérico
+[2017-11-22 10:43:02.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:43:03.000000 127.0.0.1  - flow_pack ] Orden N°: 1 -empaquetado correcto
+[2017-11-22 10:50:48.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:50:49.000000 127.0.0.1  - flow_pack ] Orden N°: 1 -empaquetado correcto
+[2017-11-22 10:51:05.000000 127.0.0.1  - new_order ] Iniciando nueva Orden
+[2017-11-22 10:51:05.000000 127.0.0.1  - flow_pack ] Orden N°: 1 -empaquetado correcto
+[2017-11-22 10:52:46.000000 127.0.0.1  - read_result ] Datos recuperados Orden de Compra N°: 1
